@@ -31,6 +31,9 @@ Atualmente, curso Análise e desenvolvimento de Sistemas na FATEC Zona Leste.
 
 ![.NET](https://img.shields.io/badge/-.NET-purple?style=flat-square&logo=.net&logoColor=white)
 
+
+<hr>
+
 <div align="center">
   <img src="https://media0.giphy.com/media/26DNe7M8Ax1wTUz4c/giphy.gif">
 </div>
