@@ -15,7 +15,9 @@ Atualmente, curso Análise e desenvolvimento de Sistemas na FATEC Zona Leste.
 
 ## Linguagens de Programação
 
-![Python](https://img.shields.io/badge/-Python-blue?style=flat-square&logo=python&logoColor=white) ![C#](https://img.shields.io/badge/-C%23-blue?style=flat-square&logo=c-sharp&logoColor=white) ![Java](https://img.shields.io/badge/-Java-blue?style=flat-square&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-blue?style=flat-square&logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/-C%23-blue?style=flat-square&logo=c-sharp&logoColor=white) 
+![Java](https://img.shields.io/badge/-Java-blue?style=flat-square&logo=java&logoColor=white)
 
 ## Banco de Dados
 
