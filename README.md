@@ -39,5 +39,5 @@ Atualmente, curso Análise e desenvolvimento de Sistemas na FATEC Zona Leste.
 </div>
 
 <div align="center">
-  <em>A Morte de Ivan Illich, obra-prima do Escritor Liev Tolstói, narra sobre um burocrata que é diagnosticado com uma doença terminal e a partir daí, decide ressignificar o propósito de sua vida. Vivendo-a como realmente deve ser.</em>
+  <em>Em A Morte de Ivan Illich, obra-prima do Escritor Liev Tolstói, é narrado sobre um burocrata que é diagnosticado com uma doença terminal e a partir daí, decide ressignificar o propósito de sua vida, onde acompanhamos o verdadeiro ecstase e euforia da mágia que pode ser a existência, que não se sintetiza somente trabalho e elementos da cidadania contemporânea.</em>
 </div>
