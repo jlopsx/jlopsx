@@ -16,8 +16,8 @@ Atualmente, curso Análise e desenvolvimento de Sistemas na FATEC Zona Leste.
 ## Linguagens de Programação
 
 ![Python](https://img.shields.io/badge/-Python-blue?style=flat-square&logo=python&logoColor=white)
-![C#](https://img.shields.io/badge/-C%23-blue?style=flat-square&logo=c-sharp&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-blue?style=flat-square&logo=java&logoColor=white)
+![C#](https://img.shields.io/badge/-C%23-purple?style=flat-square&logo=c-sharp&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-orange?style=flat-square&logo=java&logoColor=white)
 
 ## Banco de Dados
 
@@ -25,8 +25,8 @@ Atualmente, curso Análise e desenvolvimento de Sistemas na FATEC Zona Leste.
 
 ## Front-end
 
-![ASP.NET](https://img.shields.io/badge/-ASP.NET-blue?style=flat-square&logo=dotnet&logoColor=white)
+![ASP.NET](https://img.shields.io/badge/-ASP.NET-blue?style=flat-square&logo=.net&logoColor=white)
 
 ## Framework
 
-![.NET](https://img.shields.io/badge/-.NET-blue?style=flat-square&logo=dotnet&logoColor=white)
+![.NET](https://img.shields.io/badge/-.NET-blue?style=flat-square&logo=.net&logoColor=white)
