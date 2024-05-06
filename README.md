@@ -13,3 +13,18 @@ Atualmente, curso Análise e desenvolvimento de Sistemas na FATEC Zona Leste.
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jlopsx&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
+- Python ![Python](https://img.shields.io/badge/-Python-blue?style=flat-square&logo=python&logoColor=white)
+- C# ![C#](https://img.shields.io/badge/-C%23-blue?style=flat-square&logo=c-sharp&logoColor=white)
+- Java ![Java](https://img.shields.io/badge/-Java-blue?style=flat-square&logo=java&logoColor=white)
+
+  ## Banco de Dados
+
+- Microsoft SQL Server (MSSQL) ![MSSQL](https://img.shields.io/badge/-MSSQL-blue?style=flat-square&logo=microsoft-sql-server&logoColor=white)
+
+## Front-end
+
+- ASP.NET ![ASP.NET](https://img.shields.io/badge/-ASP.NET-blue?style=flat-square&logo=dotnet&logoColor=white)
+
+## Framework
+
+- .NET ![.NET](https://img.shields.io/badge/-.NET-blue?style=flat-square&logo=dotnet&logoColor=white)
