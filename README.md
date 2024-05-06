@@ -21,12 +21,12 @@ Atualmente, curso Análise e desenvolvimento de Sistemas na FATEC Zona Leste.
 
 ## Banco de Dados
 
-![MSSQL](https://img.shields.io/badge/-MSSQL-blue?style=flat-square&logo=microsoft-sql-server&logoColor=white)
+![MSSQL](https://img.shields.io/badge/-MSSQL-red?style=flat-square&logo=microsoft-sql-server&logoColor=white)
 
 ## Front-end
 
-![ASP.NET](https://img.shields.io/badge/-ASP.NET-blue?style=flat-square&logo=.net&logoColor=white)
+![ASP.NET](https://img.shields.io/badge/-ASP.NET-purple?style=flat-square&logo=.net&logoColor=white)
 
 ## Framework
 
-![.NET](https://img.shields.io/badge/-.NET-blue?style=flat-square&logo=.net&logoColor=white)
+![.NET](https://img.shields.io/badge/-.NET-purple?style=flat-square&logo=.net&logoColor=white)
